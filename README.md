@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Saranya, a data analyst who is passionate about Mathematics, Probability & Statistics and who loves to do programming.
+
 <!--
 **saranyadurairaju/saranyadurairaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
