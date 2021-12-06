@@ -32,4 +32,15 @@ Please refer to the below pinned repositories.
 
 ## Contact 📱😄
 - [@saranyadurairaju](https://www.linkedin.com/in/saranya-durairaju-31a629199/) on LinkedIn
+- [Reach me](mailto:mail2saranyad@gmail.com) on Email
 
+<!--
+```
+## Stress reliever
+
+I love connecting with different people so lets meet with a coffee 🥺👉👈😊 !
+
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+```
+--!>
